@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a developer from Zimbabwe passionate about building we
 
 I'm interested in technology, collaboration, and building meaningful digital projects.
 
-- 💻 GitHub: "Explore my repositories" (https://github.com/panashechamani175-ship-it)
+- 💻 GitHub: "Explore my repositories" (https://github.com/cyberspacehackerx)
 - 🌐 Brand: ZIMCRAFT
 - 📢 Tech community: "Follow the Code & Build ZW" (https://whatsapp.com/channel/0029VbCztbz7DAWxPVFVnQ1C)
 
