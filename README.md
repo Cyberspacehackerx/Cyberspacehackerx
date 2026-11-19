@@ -1,12 +1,12 @@
 👋 Hi, I'm Panashe Chamani
 
-💻 CYBERSPACE | Full-Stack Developer & Digital Creator
+💻 CYBERSPACEhackerx | Full-Stack Developer & Digital Creator
 
 Welcome to my GitHub! I'm a developer from Zimbabwe passionate about building websites, digital platforms, and technology solutions.
 
 🚀 About Me
 
-- 👨‍💻 Known professionally as CYBERSPACE
+- 👨‍💻 Known professionally as CYBERSPACE HackerX 
 - 🌍 Based in Zimbabwe
 - 💼 Founder of ZIMCRAFT
 - 🌐 Interested in web development and digital innovation
@@ -42,4 +42,4 @@ I'm interested in technology, collaboration, and building meaningful digital pro
 
 ⭐ Thanks for visiting my profile!
 
-CYBERSPACE — Building the Digital Future. 🚀
+CYBERSPACE HackerX — Building the Digital Future. 🚀
